@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <item>
+            <description>Description 1</description>
+            <g:id>1</g:id>
+            <g:image_link>https://cdn.e5mode.be/products/webshop/base/blauwe-jeans-skinny-fit-angels-4530607.jpg</g:image_link>
+            <g:price>89.99</g:price>
+            <g:sale_price>89.99</g:sale_price>
+            <link>https://www.e5mode.be/nl/angels-blauwe-jeans-skinny-fit-3251230-4530607?channable=00da03696400323833373837b4</link>
+            <title>Title 1</title>
+        </item>
+        <item>
+            <description>Description 2</description>
+            <g:id>2</g:id>
+            <g:image_link>https://cdn.e5mode.be/products/webshop/base/donkerblauwe-denim-met-slangenprint-straight-fit-angels-4532526.jpg</g:image_link>
+            <g:price>0.00</g:price>
+            <g:sale_price>49.98</g:sale_price>
+            <link>https://www.e5mode.be/nl/angels-donkerblauwe-denim-met-slangenprint-straight-fit-253340030-4532526?channable=00da03696400323833383833f0</link>
+            <title>Title 2</title>
+        </item>
+        <item>
+            <description>Description 3</description>
+            <g:id>3</g:id>
+            <g:image_link>https://cdn.e5mode.be/products/webshop/base/zwarte-denim-met-strass-skinny-fit-angels-4530405.jpg</g:image_link>
+            <g:price>0.00</g:price>
+            <g:sale_price>44.98</g:sale_price>
+            <link>https://www.e5mode.be/nl/angels-zwarte-denim-met-strass-skinny-fit-74125730-4530405?channable=00da0369640032383339363430</link>
+            <title>Title 3</title>
+        </item>
+    </channel>
+</rss>

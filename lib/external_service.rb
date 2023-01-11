@@ -1,3 +1,5 @@
+# Mock for processing batch of items
+#
 class ExternalService
   ONE_MEGA_BYTE = 1_048_576.0
 
